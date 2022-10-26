@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DiJ3kW+od06GD3cqah+94hCFd/b4ziWlzAmfMV066Gw=",
+  "Source": "BootcampThanos.Api",
+  "BasePath": "_content/BootcampThanos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

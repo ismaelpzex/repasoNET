@@ -1,0 +1,12 @@
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\bin\Debug\net6.0\BootcampThanos.DataAccess.Contracts.deps.json
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\bin\Debug\net6.0\BootcampThanos.DataAccess.Contracts.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\bin\Debug\net6.0\BootcampThanos.DataAccess.Contracts.pdb
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\obj\Debug\net6.0\BootcampThanos.DataAccess.Contracts.csproj.AssemblyReference.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\obj\Debug\net6.0\BootcampThanos.DataAccess.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\obj\Debug\net6.0\BootcampThanos.DataAccess.Contracts.AssemblyInfoInputs.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\obj\Debug\net6.0\BootcampThanos.DataAccess.Contracts.AssemblyInfo.cs
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\obj\Debug\net6.0\BootcampThanos.DataAccess.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\obj\Debug\net6.0\BootcampThanos.DataAccess.Contracts.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\obj\Debug\net6.0\refint\BootcampThanos.DataAccess.Contracts.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\obj\Debug\net6.0\BootcampThanos.DataAccess.Contracts.pdb
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess.Contracts\obj\Debug\net6.0\ref\BootcampThanos.DataAccess.Contracts.dll

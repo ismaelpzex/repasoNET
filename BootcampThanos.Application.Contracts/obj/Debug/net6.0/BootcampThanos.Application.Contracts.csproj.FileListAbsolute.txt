@@ -1,0 +1,15 @@
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\bin\Debug\net6.0\BootcampThanos.Application.Contracts.deps.json
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\bin\Debug\net6.0\BootcampThanos.Application.Contracts.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\bin\Debug\net6.0\BootcampThanos.Application.Contracts.pdb
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\obj\Debug\net6.0\BootcampThanos.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\obj\Debug\net6.0\BootcampThanos.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\obj\Debug\net6.0\BootcampThanos.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\obj\Debug\net6.0\BootcampThanos.Application.Contracts.AssemblyInfo.cs
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\obj\Debug\net6.0\BootcampThanos.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\obj\Debug\net6.0\BootcampThanos.Application.Contracts.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\obj\Debug\net6.0\refint\BootcampThanos.Application.Contracts.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\obj\Debug\net6.0\BootcampThanos.Application.Contracts.pdb
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\obj\Debug\net6.0\ref\BootcampThanos.Application.Contracts.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\bin\Debug\net6.0\BootcampThanos.BusinessModels.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\bin\Debug\net6.0\BootcampThanos.BusinessModels.pdb
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.Application.Contracts\obj\Debug\net6.0\BootcampThanos.Application.Contracts.csproj.CopyComplete

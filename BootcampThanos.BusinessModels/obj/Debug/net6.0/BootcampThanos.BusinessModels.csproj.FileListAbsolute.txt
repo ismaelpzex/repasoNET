@@ -1,0 +1,12 @@
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\bin\Debug\net6.0\BootcampThanos.BusinessModels.deps.json
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\bin\Debug\net6.0\BootcampThanos.BusinessModels.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\bin\Debug\net6.0\BootcampThanos.BusinessModels.pdb
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\obj\Debug\net6.0\BootcampThanos.BusinessModels.csproj.AssemblyReference.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\obj\Debug\net6.0\BootcampThanos.BusinessModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\obj\Debug\net6.0\BootcampThanos.BusinessModels.AssemblyInfoInputs.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\obj\Debug\net6.0\BootcampThanos.BusinessModels.AssemblyInfo.cs
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\obj\Debug\net6.0\BootcampThanos.BusinessModels.csproj.CoreCompileInputs.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\obj\Debug\net6.0\BootcampThanos.BusinessModels.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\obj\Debug\net6.0\refint\BootcampThanos.BusinessModels.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\obj\Debug\net6.0\BootcampThanos.BusinessModels.pdb
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.BusinessModels\obj\Debug\net6.0\ref\BootcampThanos.BusinessModels.dll

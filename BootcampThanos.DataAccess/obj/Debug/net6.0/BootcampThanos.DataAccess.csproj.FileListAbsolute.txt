@@ -1,0 +1,17 @@
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\bin\Debug\net6.0\BootcampThanos.DataAccess.deps.json
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\bin\Debug\net6.0\BootcampThanos.DataAccess.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\bin\Debug\net6.0\BootcampThanos.DataAccess.pdb
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\BootcampThanos.DataAccess.csproj.AssemblyReference.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\BootcampThanos.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\BootcampThanos.DataAccess.AssemblyInfoInputs.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\BootcampThanos.DataAccess.AssemblyInfo.cs
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\BootcampThanos.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\BootcampThanos.DataAccess.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\refint\BootcampThanos.DataAccess.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\BootcampThanos.DataAccess.pdb
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\ref\BootcampThanos.DataAccess.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\bin\Debug\net6.0\BootcampThanos.DataAccess.runtimeconfig.json
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\BootcampThanos.DataAccess.genruntimeconfig.cache
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\bin\Debug\net6.0\BootcampThanos.DataAccess.Contracts.dll
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\bin\Debug\net6.0\BootcampThanos.DataAccess.Contracts.pdb
+C:\Users\idelapoza\Desktop\C#\API\BootcampThanos\BootcampThanos.DataAccess\obj\Debug\net6.0\BootcampThanos.DataAccess.csproj.CopyComplete

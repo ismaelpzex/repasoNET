@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BootcampThanos.Application.Contracts/1.0.0": {
+        "dependencies": {
+          "BootcampThanos.BusinessModels": "1.0.0"
+        },
+        "runtime": {
+          "BootcampThanos.Application.Contracts.dll": {}
+        }
+      },
+      "BootcampThanos.BusinessModels/1.0.0": {
+        "runtime": {
+          "BootcampThanos.BusinessModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BootcampThanos.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BootcampThanos.BusinessModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
